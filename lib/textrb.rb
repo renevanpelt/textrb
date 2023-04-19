@@ -1,5 +1,6 @@
 # lib/textrb.rb
 
+require 'textrb/base_algorithm'
 require 'textrb/version'
 require 'textrb/jaro_winkler'
 require 'textrb/levenshtein'
